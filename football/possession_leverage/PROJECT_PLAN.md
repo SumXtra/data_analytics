@@ -4,7 +4,7 @@
 
 ### Setup + Data Exploration
 - [x] Set up repo and structure
-- [ ] Load `nflfastR` data
+- [x] Install dependencies and load NFL data
 - [ ] SQL exploration section
 - [ ] Explore basic win probability patterns
 
